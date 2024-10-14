@@ -1,0 +1,14 @@
+Insira pelo menos 3 alunos na tabela aluno.
+Insira pelo menos 2 professores na tabela professor.
+Insira pelo menos 3 disciplinas na tabela disciplina.
+Registre a matrícula de pelo menos 2 alunos em 2 disciplinas diferentes.
+Associe 2 professores a 2 disciplinas na tabela professor_disciplina.
+Liste todos os alunos cadastrados no banco de dados.
+Exiba o nome dos alunos, o nome das disciplinas em que estão matriculados e o ano da matrícula.
+Liste os professores que estão lecionando no ano de 2024.
+Altere o nome de uma disciplina de "Programação" para "Introdução à Programação".
+Remova da tabela matricula todos os registros de alunos matriculados no ano de 2023.
+Liste o número total de alunos matriculados por disciplina.
+Liste as disciplinas que têm mais de 1 aluno matriculado.
+Liste todas as cidades em que os alunos residem, sem repetir nomes de cidades.
+Liste o nome dos alunos, o nome dos professores e a disciplina que o professor ministra para o aluno.
